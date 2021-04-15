@@ -1,0 +1,4 @@
+from models.repositories.post_repositories import PostRepository
+from models.repositories.profile_repositories import ProfileRepository
+from models.repositories.user_repositories import UserRepository
+
